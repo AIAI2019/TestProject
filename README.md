@@ -23,3 +23,5 @@ This change was made directly on `main` while `feature-x` was being worked on.
 ## Changelog
 
 A commit on main while feature-y was in progress.
+
+A commit on main, independent of the branch.
