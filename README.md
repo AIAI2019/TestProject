@@ -15,3 +15,7 @@ Clone the repo, then edit, add, commit, and push.
 ## Licence
 
 This is a test project with no licence.
+
+## Contributing
+
+This change was made directly on `main` while `feature-x` was being worked on.
