@@ -19,3 +19,7 @@ This is a test project with no licence.
 ## Contributing
 
 This change was made directly on `main` while `feature-x` was being worked on.
+
+## Changelog
+
+A commit on main while feature-y was in progress.
